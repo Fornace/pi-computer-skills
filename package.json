@@ -1,0 +1,13 @@
+{
+  "name": "@fornace/pi-computer-library",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Manually adapted, explicit-only creative and research guides for Pi",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": ["entry/SKILL.md"],
+    "extensions": [],
+    "prompts": [],
+    "themes": []
+  }
+}

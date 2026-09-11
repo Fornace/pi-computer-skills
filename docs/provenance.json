@@ -1,0 +1,37 @@
+{
+  "review_date": "2026-09-11",
+  "archive_name": "Computer octopus archive/workspace/skills",
+  "selection": "Three guides; all six source files read in full",
+  "sources": [
+    {
+      "path": "design-foundations/SKILL.md",
+      "sha256": "f65e687434dd202e79e1087f241313310c6535608c48df533b1353368677671f",
+      "lines": 285
+    },
+    {
+      "path": "research-report/SKILL.md",
+      "sha256": "b4d814680532358b499d82b5c5bc410cacb8318228745bca2d95b0ff46093821",
+      "lines": 304
+    },
+    {
+      "path": "image-output-director/SKILL.md",
+      "sha256": "f0115c046028b59b37643b237991b9f011c93bd55dc0874b3a598cc908133df2",
+      "lines": 170
+    },
+    {
+      "path": "image-output-director/references/reference-roles.md",
+      "sha256": "ebb8dd8ed1d3ee5841356a3854ee8c75acc811dcf0149701ae7858e44c8742db",
+      "lines": 38
+    },
+    {
+      "path": "image-output-director/references/prompt-variants.md",
+      "sha256": "007fac97efc2201788026c240d1afdd3168413089ee4de2971f825510434fefb",
+      "lines": 31
+    },
+    {
+      "path": "image-output-director/references/trust-boundaries.md",
+      "sha256": "d82e5cc335ab4d26f554ffd17f9abe3b9fad1a2a20c5eceb08ef446cbef97869",
+      "lines": 39
+    }
+  ]
+}
