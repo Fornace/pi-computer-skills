@@ -19,5 +19,11 @@
   "local_links_valid": true,
   "all_files_within_400_lines": true,
   "stale_runtime_references_absent": true,
-  "link_check_scope": "Actual Markdown links, excluding code literals and fenced examples"
+  "link_check_scope": "Actual Markdown links, excluding code literals and fenced examples",
+  "installed_source": "../../works/repos/pi-computer-skills",
+  "installed_resolved_path": "/Users/ffrappo/works/repos/pi-computer-skills",
+  "existing_packages_preserved": true,
+  "non_package_settings_preserved": true,
+  "fresh_pi_command_probe": "get_commands through native Pi RPC, normal skill discovery, extensions disabled, no model request",
+  "registered_command": "skill:computer-library"
 }
