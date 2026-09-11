@@ -14,5 +14,10 @@
   "whole_package_discovery": [
     "computer-library"
   ],
-  "diagnostics": []
+  "diagnostics": [],
+  "local_markdown_links_checked": 6,
+  "local_links_valid": true,
+  "all_files_within_400_lines": true,
+  "stale_runtime_references_absent": true,
+  "link_check_scope": "Actual Markdown links, excluding code literals and fenced examples"
 }
